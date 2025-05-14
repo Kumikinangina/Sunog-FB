@@ -31,10 +31,10 @@ print(colors.BIGreen + """
 \033[1;37m║   \033[1;35m╩╚═╚═╝╩  ╚═╝╩╚═ ╩ v1            \033[1;37m║
 \033[1;37m╚═══════════════════════════════════╝\033[1;31m
 \033[1;37m╔══════════════════════════════════════════════════╗
-\033[1;37m║\033[1;31mCREATED BY : MR.DARK HCKTVST                      \033[1;37m║
-\033[1;37m║\033[1;31mCREATED-TIME :- Monday, Dec 13, 2024         \033[1;37m     ║
-\033[1;37m║\033[1;31mGITHUB :- https://github.com/Darkness1268         \033[1;37m║
-\033[1;37m║\033[1;31mFACEBOOK :- https://www.facebook.com/MrDarkHcktvst\033[1;37m║
+\033[1;37m║\033[1;31mCREATED BY : SIARLI_0.                            \033[1;37m║
+\033[1;37m║\033[1;31mCREATED-TIME :- Mar 2, 2025                  \033[1;37m     ║
+\033[1;37m║\033[1;31mGITHUB :- https://github.com/Kumikinangina        \033[1;37m║
+\033[1;37m║\033[1;31mFACEBOOK :- facebook.com/rootalicalhost.01        \033[1;37m║
 \033[1;37m╚══════════════════════════════════════════════════╝
 \033[1;92m
 """)
